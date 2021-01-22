@@ -1,0 +1,4 @@
+1. Put the test cases in the 'problems' directory.
+2. Put your (unzipped) submission in the 'submissions' directory.
+3. From the root directory, run the command-- python evaluate.py 1
+4. You should be able to see the results on the terminal as well as in a result file created in the root directory.

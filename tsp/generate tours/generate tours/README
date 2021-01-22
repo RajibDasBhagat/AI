@@ -1,0 +1,7 @@
+1. Change the following params in the script:
+	n = 300 			##Number of cities
+	type = 'non euclidean'		##non euclidean: for non-euc TSP 
+					##euclidean: for euc TSP
+	filename = 'rnoneuc_300'	##name of test case file
+
+2.command to run: python generate.py
